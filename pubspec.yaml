@@ -2,7 +2,7 @@ name: test_plugin
 description: A new Flutter test plugin.
 version: 0.0.1
 author: Andrew Samir
-homepage:
+homepage: https://github.com/AndrewSamir/Test-Flutter-Plugin/tree/master
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
